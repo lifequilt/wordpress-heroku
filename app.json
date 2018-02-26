@@ -8,8 +8,8 @@
 	"boilerplate",
 	"composer"
   ],
-  "website": "https://wordpress.org/",
-  "repository": "https://github.com/PhilippHeuer/wordpress-heroku",
+  "website": "https://life-quilt-blog.herokuapp.com/",
+  "repository": "https://github.com/lifequilt/wordpress-heroku",
   "success_url": "/wp/wp-admin",
   "scripts": {
 	"postdeploy": [

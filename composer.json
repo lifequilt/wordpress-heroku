@@ -1,9 +1,9 @@
 {
-  "name": "philippheuer/wordpress-heroku",
+  "name": "life-quilt-blog/wordpress-heroku",
   "type": "project",
   "license": "MIT",
   "description": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
-  "homepage": "https://github.com/PhilippHeuer/wordpress-heroku",
+  "homepage": "https://github.com/lifequilt/wordpress-heroku",
   "keywords": [
 	"bedrock", "wordpress", "stack", "composer", "heroku", "wp"
   ],
